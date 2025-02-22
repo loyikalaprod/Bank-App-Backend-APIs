@@ -41,7 +41,7 @@ Chaque opération effectuée (création de compte, crédit, débit, virement) es
 
 ## Configuration pour Tester l'Envoi d'E-mails
 
-Pour tester l'envoi d'e-mails dans ce projet, tu dois utiliser tes propres informations personnelles dans le fichier `application.properties`. Ce fichier est **ignoré par Git** pour des raisons de sécurité et ne sera pas poussé sur le dépôt.
+Pour tester l'envoi d'e-mails dans ce projet, tu dois utiliser tes propres informations personnelles dans le fichier `application.properties`.
 
 ### Informations à configurer :
 #### Connexion à la base de données PostgreSQL
