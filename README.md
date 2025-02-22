@@ -39,15 +39,15 @@ Chaque opération effectuée (création de compte, crédit, débit, virement) es
 4. Après avoir démarrer le projet en local, Accéder à la documentation Swagger :
    [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
 
-## Configuration pour Tester l'Envoi d'E-mails
+## Configuration pour Tester l'envoi d'e-mails
 
 Pour tester l'envoi d'e-mails dans ce projet, tu dois utiliser tes propres informations personnelles dans le fichier `application.properties`.
 
 ### Informations à configurer :
 #### Connexion à la base de données PostgreSQL
-- **URL de la base de données** : `jdbc:postgresql://localhost:5432/`
-- **Nom d'utilisateur** : `postgres`
-- **Mot de passe** : 
+- **URL de la base de données** : ``
+- **Nom d'utilisateur** : ``
+- **Mot de passe** : ''
 
 #### Envoi d'e-mails (configuration pour Gmail)
 - **Serveur SMTP** : `smtp.gmail.com`
