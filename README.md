@@ -36,7 +36,7 @@ Chaque opération effectuée (création de compte, crédit, débit, virement) es
    ```sh
    mvn spring-boot:run
    ```
-4. Accéder à la documentation Swagger :
+4. Après avoir démarrer le projet en local, Accéder à la documentation Swagger :
    [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
 
 ## Auteur
